@@ -1,5 +1,5 @@
 print("Hola mundo") #Primer Hola mundo, así de simple.
-#Python es sensible a la identación (Espacios y demás)
+#Python es sensible a la identación (Espacios / tabs)
 
 #Variables: en python se elige el tipo de variable según el valor que le des a ella. Sólo es necesario poner el nombre de la variable.
 

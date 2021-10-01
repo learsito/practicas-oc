@@ -19,4 +19,4 @@ hola = input("Ya")
 #type(variable) para preguntar de qué tipo es mi variable.
 
 #Tarea: realizar un menú para elegir la operación a realizar: + - / *
-#Puedo sumar de 2 a 4 valores
+#Puedo sumar de 2 a 4 valores Para el viernes
