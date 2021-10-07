@@ -1,5 +1,3 @@
-error="ERROR EN EL OPERADOR"
-
 def dosvar():
     a=input("Introduzca el primer valor: ")
     op=input("Elija operador (+,  -,  /,  *): ")
@@ -207,6 +205,7 @@ def quadvar():
     else:
         print(error)
 
+error="ERROR EN EL OPERADOR"
 loop ='no'
 print("~~~~~~~~~~BIENVENIDO~~~~~~~~~~")
 while loop  == 'no':
