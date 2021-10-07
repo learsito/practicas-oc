@@ -220,6 +220,5 @@ while loop  == 'no':
     else:
         print("No es posible operar con esta cantidad de sifras.")
     loop=input('Desea salir del programa? (Escriba "si" o "no"): ')
-    if loop != 'si' and loop != 'no':
-        print("Esta opción no es posible. Regresando al menú principal.")
-        loop='no'
+    while loop != 'si' and loop != 'no':
+        loop=input('Esta opción no es posible. Escriba una opción válida ("si" o "no"): ')
